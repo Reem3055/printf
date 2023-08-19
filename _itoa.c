@@ -41,3 +41,4 @@ int main(void)
         printf("%s\n", convert(a, 2));
         printf("%s\n", convert(a, 16));
 }
+#endif
