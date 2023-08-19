@@ -77,3 +77,7 @@ int print_rot13(va_list ap, params_t *params)
 	}
 	return (count);
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6179d7fc96731e23ed6bff9c061a82227c6f2f4e

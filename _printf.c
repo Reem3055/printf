@@ -47,3 +47,7 @@ int _printf(const char *format, ...)
 	va_end(ap);
 	return (sum);
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6179d7fc96731e23ed6bff9c061a82227c6f2f4e

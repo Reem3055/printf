@@ -116,3 +116,7 @@ char *get_precision(char *p, params_t *params, va_list ap);
 int _printf(const char *format, ...);
 
 #endif
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6179d7fc96731e23ed6bff9c061a82227c6f2f4e
