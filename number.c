@@ -81,7 +81,3 @@ int print_address(va_list ap, params_t *params)
 	*--str = '0';
 	return (print_number(str, params));
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> 6179d7fc96731e23ed6bff9c061a82227c6f2f4e
